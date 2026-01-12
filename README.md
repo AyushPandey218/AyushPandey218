@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Ayush Pandey
+#  Hi 👋, I'm Ayush Pandey
 # 💫 About Me:
 🔭 I’m currently working on CodeQuest<br>👯 I’m looking to collaborate on Open-source web apps, frontend UI/UX design, and interesting projects involving real-time systems or Firebase.<br>🤝 I’m looking for help with Optimizing backend structure<br>🌱 I’m currently learning Advanced React patterns, Firebase architecture<br>⚡ Fun fact- I break my projects 10 times a day, but that’s exactly how they get better 😄
 
