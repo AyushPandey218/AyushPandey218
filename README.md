@@ -4,6 +4,16 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 Currently working on CodeQuest + real-time chat.
 Learning React, Firebase & better UI/UX.
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=dfssrewfdf" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=F0F&center=true&vCenter=true&width=600&lines=Developer;Advanced%20React%20patterns%2C%20Firebase%20architecture;Open%20Source%20Contributor" alt="Glitch Typing SVG" />
+</div>
+
 ---
 
 💫 About Me:
@@ -40,11 +50,25 @@ Learning React, Firebase & better UI/UX.
 
 ---
 
+![Visitors](https://komarev.com/ghpvc/?username=AyushPandey218&color=blue)
+
+---
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AyushPandey218&theme=pacman)
+
+---
+
+### 📈 Activity Graph:
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AyushPandey218&theme=react-dark)
 
 ---
 
