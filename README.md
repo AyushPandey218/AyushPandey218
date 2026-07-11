@@ -17,6 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayushpandey.is--a.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushpandey.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushpandey0618-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpandey0618)
 [![Instagram](https://img.shields.io/badge/Instagram-ayush__wg218-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush_wg218)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ayush_wg218)
 
 <br>
 
