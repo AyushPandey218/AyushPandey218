@@ -24,39 +24,4 @@
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 <img src="./contrib-heatmap.svg" width="860" alt="Ayush's GitHub contribution graph — auto-refreshed daily" />
 
-<br>
-
----
-
-<br>
-
-<!-- extra profile elements -->
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=AyushPandey218&color=blue)
-
-<br>
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-<br>
-
-### 📊 GitHub Stats
-
-![Trophies](https://github-profile-trophy-mirror.vercel.app/?username=AyushPandey218&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AyushPandey218&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushPandey218&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyushPandey218&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&layout=compact)
-
-<br>
-
-### ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
 </div>
