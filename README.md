@@ -14,6 +14,8 @@
 
 **Fullstack & Front-end AI Engineer**
 
+![Profile Views](https://komarev.com/ghpvc/?username=AyushPandey218&color=22d3ee&style=flat-square&label=Views)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayushpandey.is--a.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushpandey.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushpandey0618-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpandey0618)
 [![Instagram](https://img.shields.io/badge/Instagram-ayush__wg218-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush_wg218)
