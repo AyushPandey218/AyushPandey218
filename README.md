@@ -14,7 +14,7 @@
 
 **Fullstack & Front-end AI Engineer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ayushpandey.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushpandey.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ayushpandey.is--a.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushpandey.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayushpandey0618-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpandey0618)
 [![Instagram](https://img.shields.io/badge/Instagram-ayush__wg218-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush_wg218)
 
